@@ -1,1 +1,1 @@
-{"labelsByUnit":{"1":["noise","reject"],"10":["accept"],"13":["noise","reject"],"2":["accept"],"3":["accept"],"4":["accept"],"5":["accept"],"6":["noise","reject"],"7":["noise","reject"],"8":["noise","reject"]},"mergeGroups":[[5,10]]}
+{"labelsByUnit":{"1":["noise","reject"],"10":["accept"],"11":["accept"],"12":["accept"],"13":["noise","reject"],"2":["accept"],"3":["accept"],"4":["accept"],"5":["accept"],"6":["noise","reject"],"7":["noise","reject"],"8":["noise","reject"]},"mergeGroups":[[5,10],[11,12]]}
